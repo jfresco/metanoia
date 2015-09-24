@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/jfresco/metanoia/issues"
   },
-  "homepage": "https://github.com/jfresco/metanoia#readme"
+  "homepage": "https://github.com/jfresco/metanoia#readme",
+  "devDependencies": {
+    "browserify": "^11.2.0",
+    "jade": "^1.11.0",
+    "local-web-server": "^0.5.23",
+    "stylus": "^0.52.4",
+    "uglifyjs": "^2.4.10"
+  }
 }
