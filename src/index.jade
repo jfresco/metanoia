@@ -10,12 +10,11 @@ html
       .parallax-layer.parallax-layer-back.home-back
       .parallax-layer.parallax-layer-base
         include ./sections/home/index
-        section.dictionary
-          .content
+        include ./sections/dictionary/index
 
-    section.work
-    section.staff
-    section.contact
+    include ./sections/work/index
+    include ./sections/staff/index
+    include ./sections/contact/index
 
     //- Application scripts
     script(type='text/javascript', src='app.js')
