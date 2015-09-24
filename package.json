@@ -1,0 +1,22 @@
+{
+  "name": "metanoia-website",
+  "version": "0.0.1",
+  "description": "Metanoia institutional web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfresco/metanoia.git"
+  },
+  "keywords": [
+    "metanoia"
+  ],
+  "author": "José Fresco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfresco/metanoia/issues"
+  },
+  "homepage": "https://github.com/jfresco/metanoia#readme"
+}
